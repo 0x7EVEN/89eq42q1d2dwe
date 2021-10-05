@@ -1,0 +1,164 @@
+nav {
+  font-family: "Fira Sans", sans-serif;
+}
+ul {
+  list-style-type: none;
+}
+
+.nav_container {
+  /* border: 1px solid teal; */
+
+  width: 100%;
+
+  box-shadow: 0px 1px 2px rgba(14, 6, 6, 0.12),
+    0px 0px 2px rgba(18, 18, 18, 0.12);
+}
+
+.nav_search {
+  height: 88px;
+}
+
+/* logo */
+
+.img {
+  width: 20%;
+  position: absolute;
+  left: 50px;
+  top: 10px;
+}
+
+.nav_menu {
+  width: 95%;
+  display: grid;
+  grid-template-columns: repeat(10, 10%);
+  text-align: center;
+  /* border: 1px solid red; */
+  margin: auto;
+  line-height: 56px;
+  height: 56px;
+}
+
+.main_1 {
+  display: none;
+  z-index: 9;
+}
+
+.main_2 {
+  display: none;
+  z-index: 9;
+}
+
+.main_cat {
+  display: flex;
+  padding-left: 15px;
+  text-align: left;
+  border-top: 1px solid rgba(18, 18, 18, 0.12);
+  border-bottom: 1px solid rgba(18, 18, 18, 0.12);
+  background: white;
+}
+
+.bdr_left {
+  border-left: 1px solid rgba(18, 18, 18, 0.12);
+}
+.bdr_right {
+  border-right: 1px solid rgba(18, 18, 18, 0.12);
+}
+
+.furniture:hover > span {
+  font-weight: bold;
+  border-bottom: 4px solid #f26522;
+}
+
+.furniture:hover .main_1 {
+  /* border:1px solid blue; */
+  display: flex;
+  position: relative;
+  width: 90vw;
+  /* height: 520px; */
+  left: 2vw;
+  /* top: -12px; */
+}
+
+.living:hover > span {
+  font-weight: bold;
+  border-bottom: 4px solid #f26522;
+}
+
+.living:hover .main_2 {
+  display: flex;
+  position: relative;
+  width: 90vw;
+  /* height: 520px; */
+  left: -7.4vw;
+  /* top: -12px; */
+}
+
+/* Search Bar  */
+.search {
+  display: flex;
+  justify-content: center;
+  width: 560px;
+  height: 48px;
+  background: #f5f5f5;
+  border: 1px solid #e4e4e4;
+  margin-left: 24%;
+  border-radius: 4px;
+  position: absolute;
+  top: 18px;
+}
+
+#inp {
+  padding: 10px;
+  font-size: 17px;
+  border: none;
+  width: 80%;
+  background: #f5f5f5;
+  color: #5e7575;
+}
+#inp:focus {
+  outline: none;
+}
+
+.search_icon {
+  position: relative;
+  left: 6.25%;
+  right: 18.75%;
+  top: 18.25%;
+}
+
+/* icons */
+
+.icons {
+  width: 20%;
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  position: absolute;
+  right: 10%;
+  top: 3%;
+}
+
+.icons div{
+  text-align: center;
+}
+
+/* Menu on Hover */
+
+.varieties {
+  /* border: 1px solid red; */
+  /* height: 496px; */
+  height: 65vh;
+  width: 162px;
+  padding-left: 15px;
+  text-align: left;
+  background: white;
+}
+
+.varieties div {
+  /* border: 1px solid blueviolet; */
+  height: 5vh;
+}
+
+.bg_change {
+  background: #f3f5f7;
+}

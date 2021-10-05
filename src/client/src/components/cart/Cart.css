@@ -1,0 +1,150 @@
+.outer_div2 {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  z-index: 9;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.3);
+  overflow-y: scroll;
+  padding-bottom: 80px;
+}
+.outer_div2::-webkit-scrollbar{
+  width:5px;
+}
+
+.inner_div2 {
+  /* border: 1px solid red; */
+  width: 36vw;
+  height: 100vh;
+  background: white;
+  position: absolute;
+  right: 0;
+  top: 0vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.closeBtn {
+  position: absolute;
+  right: 50px;
+  border: none;
+  top: 15px;
+  border-bottom: yellow;
+  background-color: black;
+}
+
+.closeBtn > svg {
+  background: black;
+  border: none;
+}
+
+.head {
+  color: white;
+  display: flex;
+  /* border: 1px solid white; */
+  position: relative;
+  top: 15px;
+  font-size: 12px;
+  align-items: center;
+  justify-content: space-around;
+  width: 80%;
+}
+.head > input {
+  height: 40px;
+  width: 154px;
+}
+.head > button {
+  border: none;
+  color: white;
+  background-color: black;
+}
+
+.inner_div2 > div {
+  background: black;
+}
+
+.btns {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-end;
+
+  position: relative;
+  bottom: -32px;
+}
+
+.subDiv {
+  height: 120px;
+  /* border: 1px solid green; */
+}
+.container {
+  /* border: 1px solid blue; */
+  background-color: white !important;
+  position: relative;
+  top: 10vh;
+}
+
+/***********************/
+
+.cartItemDetails {
+  display: grid;
+  grid-template-columns: 1fr 4fr;
+  width: 90%;
+  margin: auto;
+  gap: 15px;
+  background: #ffffff;
+  text-align: left;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.25);
+}
+
+.cartItemDetails img {
+  width: 120px;
+  max-height: 99px;
+}
+
+.itemPriceDetails > p {
+  /* font-family: Fira Sans; */
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+  align-items: center;
+  align-content: center;
+}
+
+.qtyPrice > p {
+  /* font-family: Fira Sans; */
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  color: #969696;
+}
+
+.retailPrice span {
+  text-decoration: line-through;
+}
+
+.qtyPrice b {
+  color: black;
+}
+
+.funcBtn {
+  /* border: 1px solid red; */
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+  width: 300%;
+  margin: auto;
+}
+
+.funcBtn button {
+  /* font-family: Fira Sans; */
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  text-decoration-line: underline;
+  border: none;
+  color: #969696;
+  background: white;
+  padding: 5px;
+  /* margin-top: 5px; */
+}

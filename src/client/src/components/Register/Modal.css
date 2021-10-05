@@ -1,0 +1,87 @@
+.outer_div {
+  position: fixed;
+  left: 0;
+  top: 0;
+  /* border: 1px solid red; */
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.3);
+  z-index: 11;
+}
+
+.inner_div {
+  border: 1px solid white;
+  width: 50vw;
+  height: 70vh;
+  margin: 15vh auto;
+  display: flex;
+  background: white;
+  z-index:15;
+}
+
+.inner_div input {
+  width: 80%;
+  height: 5vh;
+  border: none;
+  border-bottom: 1.5px solid #c5c5c5;
+  margin-top: 15px;
+}
+
+#mob {
+  width: 47%;
+}
+
+.inner_div button {
+  border: none;
+  padding: 10px;
+  background: none;
+  font-family: Fira Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+  color: #f26522;
+}
+
+.inner_div p {
+  font-family: Fira Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 16px;
+}
+
+.pic {
+  height: 100%;
+}
+
+.pic img {
+  height: 100%;
+}
+
+.register {
+  background: #f26522;
+  color: white;
+  margin-top: 24px;
+  height: 48px !important;
+  margin-bottom: 15px;
+}
+
+.existing {
+  border: 1px solid #c5c5c5 !important;
+  margin-top: 20px;
+  width: 288px;
+  margin-bottom: 10px;
+}
+
+.close {
+  position: absolute;
+  right: 26%;
+  color: black !important;
+  font-weight: bold !important;
+}
+
+.form{
+  text-align: center;
+}
