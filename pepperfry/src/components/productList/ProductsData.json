@@ -1,0 +1,94 @@
+{
+    "data":[{
+        "id":1,
+       "pro_img":"https://ii2.pepperfry.com/media/catalog/product/d/i/568x284/diego-three-seater-sofa-in-navy-blue-colour-by-woodsworth-diego-three-seater-sofa-in-navy-blue-colou-smvolq.jpg",
+        "colors":"8 more colors",
+        "pro_name":"Diego 3 Seater Sofa In Navy Blue Colour",
+        "category":"Woodsworth by Pepperfry",
+        "price":42799,
+        "offer":"Save ₹ 55,200 (56% Off), Limited Time Offer",
+        "ships":"Ships In 1 Day",
+        "ship_icon":"https://ii1.pepperfry.com/images/svg/clip-exp-ship-icon-2018.svg",
+        "cash_back":"Extra Cashback Worth ₹8,250"
+    },
+    {
+        "id":2,
+       "pro_img":"https://ii3.pepperfry.com/media/catalog/product/f/a/470x235/fabiola-3-seater-sofa-in-blue-colour-fabiola-3-seater-sofa-in-blue-colour-vwm9lt.jpg",
+        "colors":"8 more colors",
+        "pro_name":"Diego 3 Seater Sofa In Navy Blue Colour",
+        "category":"Woodsworth by Pepperfry",
+        "price":42799,
+        "offer":"Save ₹ 55,200 (56% Off), Limited Time Offer",
+        "ships":"Ships In 1 Day",
+         "ship_icon":"https://ii1.pepperfry.com/images/svg/clip-exp-ship-icon-2018.svg",
+         "cash_back":"Extra Cashback Worth ₹8,250"
+    },{
+        "id":3,
+       "pro_img":"https://ii1.pepperfry.com/media/catalog/product/k/a/470x235/kaylee-3-seater-sofa-in-green-colour-kaylee-3-seater-sofa-in-green-colour-72qt5q.jpg",
+        "colors":"8 more colors",
+        "pro_name":"Diego 3 Seater Sofa In Navy Blue Colour",
+        "category":"Woodsworth by Pepperfry",
+        "price":42799,
+        "offer":"Save ₹ 55,200 (56% Off), Limited Time Offer",
+        "ships":"Ships In 1 Day",
+         "ship_icon":"https://ii1.pepperfry.com/images/svg/clip-exp-ship-icon-2018.svg",
+         "cash_back":"Extra Cashback Worth ₹8,250"
+    },{
+        "id":4,
+       "pro_img":"https://ii1.pepperfry.com/media/catalog/product/r/i/470x235/ricardo-3-seater-sofa-in-wine-colour---casacraft-by-pepperfry-ricardo-3-seater-sofa-in-wine-colour---g2knee.jpg",
+        "colors":"8 more colors",
+        "pro_name":"Diego 3 Seater Sofa In Navy Blue Colour",
+        "category":"Woodsworth by Pepperfry",
+        "price":42799,
+        "offer":"Save ₹ 55,200 (56% Off), Limited Time Offer",
+        "ships":"Ships In 1 Day",
+         "ship_icon":"https://ii1.pepperfry.com/images/svg/clip-exp-ship-icon-2018.svg",
+         "cash_back":"Extra Cashback Worth ₹8,250"
+    },{
+        "id":5,
+       "pro_img":"https://ii1.pepperfry.com/media/catalog/product/s/e/470x235/serena-3-seater-sofa-in-sandy-brown-colour-by-casacraft-serena-3-seater-sofa-in-sandy-brown-colour-b-npm5ml.jpg",
+        "colors":"8 more colors",
+        "pro_name":"Diego 3 Seater Sofa In Navy Blue Colour",
+        "category":"Woodsworth by Pepperfry",
+        "price":42799,
+        "offer":"Save ₹ 55,200 (56% Off), Limited Time Offer",
+        "ships":"Ships In 1 Day",
+         "ship_icon":"https://ii1.pepperfry.com/images/svg/clip-exp-ship-icon-2018.svg",
+         "cash_back":"Extra Cashback Worth ₹8,250"
+    },{
+        "id":6,
+       "pro_img":"https://ii1.pepperfry.com/media/catalog/product/r/e/470x235/regina-3-seater-sofa-in-rust-colour---casacraft-by-pepperfry-regina-3-seater-sofa-in-rust-colour---c-mh58yr.jpg",
+        "colors":"8 more colors",
+        "pro_name":"Diego 3 Seater Sofa In Navy Blue Colour",
+        "category":"Woodsworth by Pepperfry",
+        "price":42799,
+        "offer":"Save ₹ 55,200 (56% Off), Limited Time Offer",
+        "ships":"Ships In 1 Day",
+         "ship_icon":"https://ii1.pepperfry.com/images/svg/clip-exp-ship-icon-2018.svg",
+         "cash_back":"Extra Cashback Worth ₹8,250"
+    },{
+        "id":7,
+       "pro_img":"https://ii2.pepperfry.com/media/catalog/product/d/i/568x284/diego-three-seater-sofa-in-navy-blue-colour-by-woodsworth-diego-three-seater-sofa-in-navy-blue-colou-smvolq.jpg",
+        "colors":"8 more colors",
+        "pro_name":"Diego 3 Seater Sofa In Navy Blue Colour",
+        "category":"Woodsworth by Pepperfry",
+        "price":42799,
+        "offer":"Save ₹ 55,200 (56% Off), Limited Time Offer",
+        "ships":"Ships In 1 Day",
+         "ship_icon":"https://ii1.pepperfry.com/images/svg/clip-exp-ship-icon-2018.svg",
+         "cash_back":"Extra Cashback Worth ₹8,250"
+    },
+    {
+        "id":8,
+       "pro_img":"https://ii2.pepperfry.com/media/catalog/product/d/i/568x284/diego-three-seater-sofa-in-navy-blue-colour-by-woodsworth-diego-three-seater-sofa-in-navy-blue-colou-smvolq.jpg",
+        "colors":"8 more colors",
+        "pro_name":"Diego 3 Seater Sofa In Navy Blue Colour",
+        "category":"Woodsworth by Pepperfry",
+        "price":42799,
+        "offer":"Save ₹ 55,200 (56% Off), Limited Time Offer",
+        "ships":"Ships In 1 Day",
+         "ship_icon":"https://ii1.pepperfry.com/images/svg/clip-exp-ship-icon-2018.svg",
+         "cash_back":"Extra Cashback Worth ₹8,250"
+    }
+]
+}
