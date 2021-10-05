@@ -1,0 +1,297 @@
+.mainPic {
+  width: 100vw;
+  margin-bottom: 103px;
+}
+
+.mainPic img {
+  max-width: 100vw;
+  max-height: 100vw;
+  display: block;
+}
+
+.iconArray {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 90vw;
+  margin: auto;
+  margin-bottom: 101px;
+}
+.iconArray div {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: #969696;
+  font-size: 12px;
+}
+
+.iconArray p {
+  margin-left: 7px;
+}
+
+.collection {
+  /* border: 1px solid red; */
+  text-align: center;
+}
+
+.browse {
+  margin: 20px auto;
+  width: 90vw;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+
+.browse > div {
+  margin-bottom: 44px;
+}
+
+.browse h1 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  text-align: center;
+}
+.browse p {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #969696;
+}
+
+hr {
+  position: relative;
+  width: 1136px;
+  height: 1px;
+  margin: auto;
+  top: 20px;
+  background: #bbbbbb;
+}
+
+.quote {
+  display: flex;
+  width: 80%;
+  margin: 20px auto;
+}
+
+.catSelect {
+  display: flex;
+  /* border: 1px solid red; */
+  width: 100vw;
+  height: 120px;
+  justify-content: center;
+  gap: 20px;
+  align-items: center;
+  background: #c5c5c5;
+}
+
+.catSelect select {
+  height: 44px;
+  background: #ffffff;
+  border-radius: 4px;
+  width: 176px;
+}
+.catSelect p {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+}
+
+.mainContainer {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 16px;
+  /* border: 1px solid red; */
+  width: 65vw;
+  /* position: relative;
+  top: 184px;
+  left: 29vw; */
+}
+
+.mainContainer > div img {
+  width: 264px;
+  height: 144px;
+  margin: auto;
+  display: block;
+}
+
+.mainContainer > div {
+  /* border: 1px solid red; */
+  padding:0 12px;
+}
+
+.mainContainer h4 {
+  font-size: 13px;
+  margin:12px 0 12px  12px;
+}
+
+.svgDiv1 {
+  display: flex;
+  /* border: 1px solid red; */
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 12px;
+  width: 92%;
+}
+
+.svgDiv1 p {
+  color: #969696;
+  font-size: 12px;
+}
+
+.svgDiv2 {
+  display: flex;
+  /* border: 1px solid red; */
+  align-items: center;
+  width: 92%;
+  margin: auto;
+  font-size: 12px;
+}
+.svgDiv2 p {
+  margin-left: 8px;
+}
+
+.priceDiv {
+  display: flex;
+  /* border: 1px solid red; */
+  align-items: center;
+  width: 92%;
+  margin: auto;
+  font-size: 14px;
+}
+
+.saving {
+  display: flex;
+  /* border: 1px solid red; */
+  align-items: center;
+  width: 92%;
+  margin: auto;
+  font-size: 12px;
+}
+
+.filterSection {
+  position: relative;
+  top: 5vh;
+}
+
+.section_1 {
+  margin-bottom: 19px;
+}
+
+.section_1 div {
+  /* border: 1px solid blue; */
+  display: flex;
+  width: 25%;
+  /* justify-content: space-between; */
+  align-items: center;
+  margin-left: 5%;
+}
+
+.section_1 p,
+h2 {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  color: #969696;
+}
+
+.section_1 h2 {
+  /* border: 1px solid blue; */
+  width: 25%;
+  margin-left: 3%;
+}
+
+.check {
+  text-align: left;
+}
+
+.check > div {
+  border-top: 1px solid #c5c5c5;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.check h5 {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+}
+.check h4,
+label {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  /* border: 1px solid red; */
+}
+
+.check label {
+  margin: 5px;
+}
+
+.check input {
+  height: 24px;
+  width: 24px;
+}
+
+.labelDiv {
+  /* border: 1px solid blue; */
+  display: flex;
+  align-items: center;
+  height: 28px;
+  margin-top: 10px;
+}
+
+h6 {
+  font-family: "Hammersmith One", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  margin: auto;
+
+  margin-bottom: 16px;
+}
+
+hr {
+  margin-bottom: 61px;
+}
+
+.quote p {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  /* or 143% */
+  margin: auto;
+  text-align: center;
+  width: 946px;
+  height: 60px;
+
+  color: #969696;
+}
+
+.bigButton {
+  display: block;
+  width: 368px;
+  height: 48px;
+  border: none;
+  color: white;
+  margin: auto !important;
+  background: #f26522;
+}
+
+.lowerCatergories {
+  display: flex;
+  /* border: 1px solid red; */
+  justify-content: space-between;
+  width: 85%;
+  margin: 168px auto;
+}
+
+.subCat {
+  /* border: 1px solid red; */
+  /* margin-left: 10px; */
+  width: 50% !important;
+}

@@ -1,0 +1,36 @@
+.width-1136{
+     width:1136px;
+}
+.dark{
+     background-color: rgb(245,245,245);
+}
+.padding-top-144{
+     padding-top:144px;
+}
+/* .mt-144{ */
+     /* margin-top: 144px;; */
+/* } */
+.name-of-pro{
+     font-size: 14px;
+     font-weight: 600px !important;
+}
+.pro-outer-name{
+     margin-top: 40px;
+     max-width: 400px;
+     text-overflow: ellipsis;
+     font-weight: 600px;
+}
+.price-outer-name p{
+     text-overflow: ellipsis;
+}
+.brand-name-outer{
+margin-top: 23px;
+font-size: 14px;
+font-weight: 500px;
+}
+.price-outer-div{
+     margin-top:19px;
+}
+.padding-y-160{
+     padding: 40px 0;
+}

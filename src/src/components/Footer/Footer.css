@@ -1,0 +1,77 @@
+.footer {
+  font-family: Fira Sans;
+  font-style: normal;
+  font-weight: normal;
+  letter-spacing: 0.02em;
+  color: #969696;
+  
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  background: #f4f5f7;
+  /* height: 896px !important; */
+}
+
+.footer h4 {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 0.02em;
+  color: #000000;
+}
+.footer hr {
+  border: 1px 0 0 0 solid #969696;
+}
+
+.lowerFooter {
+  /* border: 1px solid red; */
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  width: 82vw;
+  margin: auto;
+}
+
+.lowerFooter > div {
+  /* border: 1px solid blue; */
+  widows: 25%;
+  margin: 5%;
+}
+
+.payment {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 5px;
+}
+
+.appStore {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.social {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+
+.upperFooter {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 15px;
+  width: 90vw;
+  /* border: 1px solid red; */
+  margin: auto;
+  padding: 64px;
+}
+
+.upper_right {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+.upper_left {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 20px;
+}
